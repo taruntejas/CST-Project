@@ -1,2 +1,2 @@
 # CST-Project
-resume website
+Custom resume maker for Compsoft Technologies
